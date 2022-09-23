@@ -1,12 +1,12 @@
-# Work-from-home Trends in NYC
+# Work-From-Home Trends in NYC
 
-### 	 Project Presentation [Slides](https://github.com/andreilevin/MTA_project/blob/main/AndreiPresentation.pdf) | [Video](https://youtu.be/vt5fpE0bzSY):
+### 	 Project Presentation [Slides](https://github.com/andreilevin/MTA_project/blob/main/AndreiPresentation.pdf) | [Video](https://youtu.be/yqBPyubJo38):
 
-[![Watch the video](https://raw.githubusercontent.com/andreilevin/MTA_project/main/figures/youtube_screen.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://raw.githubusercontent.com/andreilevin/MTA_project/main/figures/youtube_screen.jpg)](https://youtu.be/yqBPyubJo38)
 
 
 
-### An Exploratory Data Analysis project 
+## An Exploratory Data Analysis project 
 
 Every week, the MTA (New York's subway system) publishes a fresh batch of [commuter usage data](http://web.mta.info/developers/turnstile.html ).  This dataset contains entry and exit counts for each turnstile in every station of the MTA, tallied approximately every four hours.  For my first data science project, I wanted to see if it was possible to use this turnstile data to infer which specific NYC neighborhoods saw the biggest increase in work-from-home rates among their populations as a result of the Covid-19 pandemic.  This information could be useful for an enterprising company that wishes to more precisely target the residents of those neighbohoods; for example, with ads for home office products such as standing desks and external monitors.
 
